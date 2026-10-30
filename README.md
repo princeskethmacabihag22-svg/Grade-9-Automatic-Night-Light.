@@ -1,4 +1,4 @@
-#Grade 9-Automatic-Night-Light
+Grade 9-Automatic-Night-Light
 
 PROJECT DESCRIPTION
 
