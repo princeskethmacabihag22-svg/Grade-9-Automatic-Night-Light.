@@ -1,34 +1,34 @@
 Grade 9-Automatic-Night-Light
 
-Project Description
+PROJECT DESCRIPTION
 
 The Automatic Night Light is an Arduino-based system that automatically turns on an LED when the surroundings become dark.
 It uses a light sensor to detect the amount of light in the environment. 
 
-Input
+INPUT
 
 The input is provided by a photoresistor or LDR (Light-Dependent Resistor). It measures the brightness of the surroundings
 
-Process
+PROCESS
 
 The Arduino reads the value from the LDR. If the light level is below the set threshold, the Arduino determines that the
 environment is dark and sends a signal to turn on the LED. If the environment is bright, the LED remains off.
 
-Output
+OUTPUT
 
 The output is an LED. The LED turns on when it is dark. The LED turns off when there is enough light.
 
-Components Used
+COMPONENTS USED
 
-Arduino Uno
+-Arduino Uno
 
-LDR or photoresistor
+-LDR or photoresistor
 
-LED
+-LED
 
-220 Ω resistor
+-220 Ω resistor
 
-Jumper Wires
+-Jumper Wires
 
 How the System Works
 
@@ -43,6 +43,7 @@ app.py - Modified Streamlit Dashboard
 requirements.txt - Required Python Libraries
 
 README.md - Project Description
+
 
 Wokwi Simulation
 
